@@ -1,4 +1,14 @@
 hola a todos
 //Las moscas tambien tienen derecho
+<<<<<<< HEAD
+
+=======
+Un dia cualquiera la mosca mas vieja del mundo se pregunto el por que de su existencia.
+>>>>>>> 9538fb914b99288cf3d3b69d1a31e3b50ea84fb4
+
+
+
+
+
 estos son animales poco agradables pues merodean en sitios ni higienicos
 transportan de una lado a otro bacterias
